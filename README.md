@@ -1,4 +1,4 @@
-# CliveBell-THE_AESTHETIC_HYPOTHESIS-
+# CliveBell-THE_AESTHETIC_HYPOTHESIS-&-THE-METAPHYSICAL-HYPOTHESIS
 Eine Sammlung von KI generieten Skripten über Emotionen und Futurismus
 
 README: Emotionen & Futurismus Processing Scripts
